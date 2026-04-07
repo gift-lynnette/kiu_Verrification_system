@@ -1,0 +1,8 @@
+{
+  "name": "kiu/greencard-system",
+  "description": "KIU automated tuition verification and digital green card system",
+  "type": "project",
+  "require": {
+    "dompdf/dompdf": "^2.0"
+  }
+}

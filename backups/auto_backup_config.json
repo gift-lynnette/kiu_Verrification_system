@@ -1,0 +1,6 @@
+{
+    "enabled": true,
+    "interval_hours": 12,
+    "keep_last": 15,
+    "last_run_at": 1774540180
+}
